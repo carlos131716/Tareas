@@ -1,5 +1,5 @@
 #include <iostream>
-#include "tienda_2.cpp"
+#include "tienda.cpp"
 using namespace std;
 int main()
 {
